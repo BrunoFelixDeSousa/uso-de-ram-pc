@@ -5,7 +5,7 @@ Este projeto foi desenvolvido durante uma live de Node.js, explorando os conceit
 ## Iniciando o Projeto
 
 ```bash
-git clonenhttps://github.com/BrunoFelixDeSousa/uso-de-ram-pc.git
+git clone https://github.com/BrunoFelixDeSousa/uso-de-ram-pc.git
 cd pcRamUsage
 npm install
 npm run start:dev
